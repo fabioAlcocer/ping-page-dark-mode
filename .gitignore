@@ -1,0 +1,5 @@
+*.sketch
+*.xd
+*.fig
+node_modules
+style-guide.md
