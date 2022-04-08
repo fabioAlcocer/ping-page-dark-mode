@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/fabioAlcocer/regEx-form-responsive)
+- Solution URL: [Solution](https://github.com/fabioAlcocer/ping-page-dark-mode)
 - Live Site URL: [Live](https://api-github-search.netlify.app/)
 
 ## My process
@@ -39,16 +39,18 @@ Users should be able to:
 - HTML5 markup
 - Mobile-first workflow
 - Responsive Design
-- Regular Expressions
+- Toggle Dark/Light Mode
 - ES6 JS
+- RegEx
 
 ### What I learned
 
-Some of the new things I learned in this project were validating forms using regular expressions, as well as adapting the design to any screen size.
+Some of the new things I learned in this project were validating forms using regular expressions, as well as adapting the design to any screen size. Also implemented the dark and light mode.
 
 ### Useful resources
 
-- [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS/::placeholder)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
+- - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
 - [RegExr](https://regexr.com/)
 
 ## Author
