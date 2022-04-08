@@ -13,7 +13,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: inherit;
-  /* color-scheme: light; */
   transition: 0.3s linear;
 }
 
@@ -43,7 +42,6 @@ body {
 }
 
 .main__logo {
-  /* width: 70px; */
   margin-bottom: 1.5rem;
 }
 
