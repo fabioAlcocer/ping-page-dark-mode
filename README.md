@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/fabioAlcocer/ping-page-dark-mode)
-- Live Site URL: [Live](https://api-github-search.netlify.app/)
+- Live Site URL: [Live](https://fabioalcocer.github.io/ping-page-dark-mode/)
 
 ## My process
 
