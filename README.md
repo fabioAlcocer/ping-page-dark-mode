@@ -50,7 +50,7 @@ Some of the new things I learned in this project were validating forms using reg
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-- - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/color-scheme)
 - [RegExr](https://regexr.com/)
 
 ## Author
